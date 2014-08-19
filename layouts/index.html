@@ -1,67 +1,93 @@
 {{ template "chrome/header.html" . }}
 
-  <div class="hompage-jumbotron">
-    <div class="container jumbotron-cover">
-      <h1>BrainSilo Hackerspace</h1>
-      <p class="lead">
-        BrainSilo is Portland's oldest hackerspace
-        <br>
-        We're a diverse group of people who love making things and
-        sharing what we know.
-      </p>
-      <p>
-        <a href="/membership/" class="btn btn-primary btn-lg">Become a Member</a>
-        <a href="http://www.meetup.com/brainsilo/#upcoming" class="btn btn-info btn-lg">Attend an Open House</a>
-        <a href="/about/" class="btn btn-default btn-lg">Learn More!</a>
-      </p>
-    </div>
-  </div>
 
   <div class="main-content container">
-    <!--<div class="alert alert-info">
-      BrainSilo is looking to get a new facility, learn more
-      about
-      <strong><a href="/fab/">how to get involved here!</a></strong>
-    </div>-->
-    <div class="row">
-      <div class="col-sm-4">
-        <h2>Get Involved</h2>
-        <p>
-          BrainSilo is a community-driven state non-profit
-          where engineers, artists, students, and hobbyists come
-          to make prototypes, art, and other creative projects.
-        </p>
-      </div>
-      <div class="col-sm-4">
-        <h2>Membership</h2>
-        <p>
-          BrainSilo is now open to membership. If you're interested in becoming a member,
-          check out our <a href="/membership/">Membership page</a>.
-        </p>
-      </div>
-      <div class="col-sm-4">
-        <h2>Support BrainSilo</h2>
-        <p>
-          BrainSilo is a volunteer run organization and needs all the
-          help we can get! If you have equipment, time or energy to give, please check out our
-          <a href="/donate/">Donate page</a>.
-        </p>
+    <div class="homepage-jumbotron">
+      <div class="container jumbotron-cover">
+        <div class="text-center">
+          <span class="h1">Welcome to CTRL-H</span>
+          <span class="lead">
+            Portland's newest hackerspace
+          </span>
+        </div>
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-4">
-        <p><a href="/about/" class="btn btn-primary btn-lg btn-block">Learn More</a></p>
+      <div class="col-md-4 index-widget">
+        <a href="/about">
+          <div class="circle-icon" style="background-color: #C71585">
+            <span class="fa fa-puzzle-piece"></span>
+          </div>
+          <h4>About Us</h2>
+          <p class="text">
+            Find out who we are, how we started, and how to get involved.
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
       </div>
-      <div class="col-sm-4">
-        <p><a href="/membership/" class="btn btn-primary btn-lg btn-block">Become a Member</a></p>
+      <div class="col-md-4 index-widget">
+        <a href="/space">
+          <div class="circle-icon" style="background-color: #7B68EE">
+            <span class="fa fa-cloud"></span>
+          </div>
+          <h4>Our Space</h2>
+          <p class="text">
+            Tour our space virtually, view our live webcam, come visit us.
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
       </div>
-      <div class="col-sm-4">
-        <p><a href="/donate/" class="btn btn-primary btn-lg btn-block">Support BrainSilo</a></p>
+      <div class="col-md-4 index-widget">
+        <a href="https://github.com/ctrl-h/task-manager/issues">
+          <div class="circle-icon" style="background-color: #FF0000">
+            <span class="fa fa-clock-o"></span>
+          </div>
+          <h4>Task Manager</h2>
+          <p class="text">
+            Find out who we are, how we started, and how to get involved.
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
       </div>
     </div>
-    {{ range first 10 .Data.Pages }}
-      {{ .Render "summary"}}
-    {{ end }}
+    <div class="row">
+      <div class="col-md-4 index-widget">
+        <a href="/webcam">
+          <div class="circle-icon" style="background-color: #000000">
+            <span class="fa fa-camera"></span>
+          </div>
+          <h4>Webcam</h2>
+          <p class="text">
+            See what we're up to.
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
+      </div>
+      <div class="col-md-4 index-widget">
+        <a href="/find-us">
+          <div class="circle-icon" style="background-color: #8A2BE2">
+            <span class="fa fa-truck"></span>
+          </div>
+          <h4>Find Us</h2>
+          <p class="text">
+            How to get here.
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
+      </div>
+      <div class="col-md-4 index-widget">
+        <a href="/webirc">
+          <div class="circle-icon" style="background-color: #999999">
+            <span class="fa fa-linux"></span>
+          </div>
+          <h4>IRC</h2>
+          <p class="text">
+            Join us on IRC right from the web!
+          </p>
+          <p class="mi">More Info <span class="fa fa-caret-right"></span></p>
+        </a>
+      </div>
+    </div>
   </div>
 
 {{ template "chrome/footer.html" }}
