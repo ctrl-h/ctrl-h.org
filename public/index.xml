@@ -10,6 +10,18 @@
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
+      <title>Web IRC</title>
+      <link>http://www.ctrl-h.org/webirc</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.ctrl-h.org/webirc</guid>
+      <description>&lt;p&gt;Join our IRC channel on Freenode.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://kiwiirc.com/client/irc.freenode.net/?nick=ctrlh_kiwi|?#ctrlh&#34; style=&#34;border:0; width:100%; height:450px;&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Webcam</title>
       <link>http://www.ctrl-h.org/webcam</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -28,14 +40,12 @@
     </item>
     
     <item>
-      <title>Web IRC</title>
-      <link>http://www.ctrl-h.org/webirc</link>
+      <title>Our Space</title>
+      <link>http://www.ctrl-h.org/space</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://www.ctrl-h.org/webirc</guid>
-      <description>&lt;p&gt;Join our IRC channel on Freenode.&lt;/p&gt;
-
-&lt;iframe src=&#34;https://kiwiirc.com/client/irc.freenode.net/?nick=ctrlh_kiwi|?#ctrlh&#34; style=&#34;border:0; width:100%; height:450px;&#34;&gt;&lt;/iframe&gt;
+      <guid>http://www.ctrl-h.org/space</guid>
+      <description>&lt;p&gt;Space details will be coming soon!&lt;/p&gt;
 </description>
     </item>
     
@@ -55,6 +65,40 @@
 
 &lt;p&gt;&lt;img src=&#34;http://maps.googleapis.com/maps/api/staticmap?center=7600+N+Interstate+Ave,+Portland,+OR&amp;amp;zoom=14&amp;amp;scale=false&amp;amp;size=600x300&amp;amp;maptype=roadmap&amp;amp;sensor=false&amp;amp;format=png&amp;amp;visual_refresh=true&amp;amp;markers=size:mid%7Ccolor:red%7C7600+N+Interstate+Ave,+Portland,+OR&amp;quot; alt=&amp;quot;Google Map of 7600 N Interstate Ave, Portland, OR&#34; alt=&#34;image&#34; /&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://www.ctrl-h.org/about</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://www.ctrl-h.org/about</guid>
+      <description>
+
+&lt;p&gt;A few years ago, a geek bought a building at 7600 N. Interstate Ave. in Portland with the intent of turning it into a hackerspace.  However, this didn’t work out, and the building sat unused for a few years.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in Grand Rapids, MI., the Geek Group had a fire in their high voltage lab.  The geek who owned the building had a large variac sitting in this building that the Geek Group needed, and offered it to them.  They were quite happy to take it, and made a trip up to Portland to gratefully accept said variac, and a few other things.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, another geek on the westside of Portland got the bright idea to start looking for a building on the westside of Portland (and is still looking, by the way) for a westside hackerspace, and contacted The Geek Group to see if they knew of any buildings that could be used.  They put him in touch with the geek who owned the building.  This building was not in an ideal place for a westside space (since it wasn’t on the westside).  So this geek instead put said geek in touch with an existing hackerspace community in Portland.&lt;/p&gt;
+
+&lt;p&gt;Well, fast forward a couple of months later, and here we are.  We are currently in the process of renovating the building to support a hackerspace, and setting up infrastructure, such as this website.&lt;/p&gt;
+
+&lt;p&gt;We look forward to doing some really cool things in Portland.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_0&#34;&gt;Who are we?&lt;/h3&gt;
+
+&lt;p&gt;Currently we consist of many of the same people who make up &lt;a href=&#34;http://www.brainsilo.org/&#34;&gt;Brainsilo&lt;/a&gt;.
+You’ll find &lt;strong&gt;Jon Hannis&lt;/strong&gt; there most weekends and some weekdays, tirelessly getting the building, that &lt;strong&gt;Scott E.&lt;/strong&gt; has kindly offered for our use, ready.&lt;/p&gt;
+
+&lt;h4 id=&#34;toc_1&#34;&gt;Your web team is:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Russell Miller&lt;/li&gt;
+&lt;li&gt;Aaron Eiche&lt;/li&gt;
+&lt;li&gt;Jon Hannis&lt;/li&gt;
+&lt;li&gt;Loki&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -111,40 +155,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;(877) 456-5558&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>http://www.ctrl-h.org/about</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://www.ctrl-h.org/about</guid>
-      <description>
-
-&lt;p&gt;A few years ago, a geek bought a building at 7600 N. Interstate Ave. in Portland with the intent of turning it into a hackerspace.  However, this didn’t work out, and the building sat unused for a few years.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, in Grand Rapids, MI., the Geek Group had a fire in their high voltage lab.  The geek who owned the building had a large variac sitting in this building that the Geek Group needed, and offered it to them.  They were quite happy to take it, and made a trip up to Portland to gratefully accept said variac, and a few other things.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, another geek on the westside of Portland got the bright idea to start looking for a building on the westside of Portland (and is still looking, by the way) for a westside hackerspace, and contacted The Geek Group to see if they knew of any buildings that could be used.  They put him in touch with the geek who owned the building.  This building was not in an ideal place for a westside space (since it wasn’t on the westside).  So this geek instead put said geek in touch with an existing hackerspace community in Portland.&lt;/p&gt;
-
-&lt;p&gt;Well, fast forward a couple of months later, and here we are.  We are currently in the process of renovating the building to support a hackerspace, and setting up infrastructure, such as this website.&lt;/p&gt;
-
-&lt;p&gt;We look forward to doing some really cool things in Portland.&lt;/p&gt;
-
-&lt;h3 id=&#34;toc_0&#34;&gt;Who are we?&lt;/h3&gt;
-
-&lt;p&gt;Currently we consist of many of the same people who make up &lt;a href=&#34;http://www.brainsilo.org/&#34;&gt;Brainsilo&lt;/a&gt;.
-You’ll find &lt;strong&gt;Jon Hannis&lt;/strong&gt; there most weekends and some weekdays, tirelessly getting the building, that &lt;strong&gt;Scott E.&lt;/strong&gt; has kindly offered for our use, ready.&lt;/p&gt;
-
-&lt;h4 id=&#34;toc_1&#34;&gt;Your web team is:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Russell Miller&lt;/li&gt;
-&lt;li&gt;Aaron Eiche&lt;/li&gt;
-&lt;li&gt;Jon Hannis&lt;/li&gt;
-&lt;li&gt;Loki&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

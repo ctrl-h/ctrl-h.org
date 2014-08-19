@@ -43,6 +43,8 @@ body {
 .homepage-jumbotron {
   border-bottom: 1px solid #EEE;
   padding-bottom: 1em;
+  margin-top: 5em;
+  margin-bottom: 5em;
 }
 
 .index-widget {
